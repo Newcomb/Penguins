@@ -10,3 +10,9 @@ h1{
   color: #914300;
   text-align: center;
 }
+.Explain{
+  width: 90%;
+  margin-left: 5%;
+  background-color: white;
+  font-size: 20px;
+}
